@@ -1,0 +1,22 @@
+body {
+  background: #d9eaff;
+  color: #142b48;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 2rem;
+}
+h1 {
+  color: #174ea6;
+  text-shadow: 1px 1px #ffffff;
+}
+img {
+  height: auto;
+  max-width: 100%;
+}
+.about {
+  color: #8a2846;
+  font-weight: bold;
+}
+.music {
+  color: #176842;
+}
